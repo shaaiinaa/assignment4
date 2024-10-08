@@ -1,7 +1,10 @@
 *{
     padding: 0;
     margin: 0;
+}
+body{
     background-color: yellow;
+
 }
 .parent{
     background-color: orange;
@@ -11,7 +14,6 @@
 .child{
     background-color:lime;
     padding: 16px;
-    box-sizing: border-box;
 
 }
 .container{
